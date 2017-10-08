@@ -252,6 +252,7 @@ ELCD
 ENV
 EOF
 EPERM
+EPFCLCD
 EPO
 EPS
 ESC
@@ -460,6 +461,7 @@ Kx
 LASTXFER
 LBT
 LCDRM
+LCDRT
 LCDRTXL
 LDADD
 LDFLAGS
@@ -774,6 +776,7 @@ PowerVault
 PowerWalker
 PowerWare
 Powerchute
+Powercool
 Powerwell
 Prachi
 PresentStatus
@@ -1033,6 +1036,7 @@ TxHS
 UBD
 UBR
 UDP
+UHV
 UID
 UIDA
 UINT
@@ -1360,6 +1364,7 @@ coreutils
 cout
 coverity
 cp
+cppunit
 cpqpower
 cpsups
 cr
